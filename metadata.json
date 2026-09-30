@@ -1,0 +1,6 @@
+{
+  "name": "MURALI",
+  "description": "AI Virtual Try-On Studio allowing users to upload personal photos and outfit garments to visualize realistic try-on results with custom styling controls and AI fashion analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
